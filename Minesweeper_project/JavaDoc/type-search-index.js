@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"com.example.minesweeper_project","l":"Field"},{"p":"com.example.minesweeper_project","l":"HelloController"},{"p":"com.example.minesweeper_project","l":"MinesweeperApplication"}];updateSearchResults();
